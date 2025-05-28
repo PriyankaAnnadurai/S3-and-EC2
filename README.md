@@ -67,7 +67,7 @@ Simple Storage Service:
 
 
 EC2(Elastic Cloud Compute)
-![image](https://github.com/user-attachments/assets/36c30ac3-212a-4875-8f54-94360cd25c65)
+![image](https://github.com/user-attachments/assets/87143a1e-d4da-4b8b-85ea-944d90ecca36)
 
 
 
